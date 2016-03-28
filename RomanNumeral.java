@@ -74,6 +74,8 @@ public String convertNumberToNumeral(int numericValue){
 	} else if (tens == 9){
 		romanTens = "XIX";
 	}
+	
+	return null;
 			
 }
 	
