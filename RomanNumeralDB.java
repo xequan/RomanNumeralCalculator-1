@@ -6,13 +6,13 @@ public class RomanNumeralDB {
 		RomanNumeral myRomanNumeral = new RomanNumeral();
 		
 		//fill RomanNumeral object with data
-		myRomanNumeral.setNumericValue(numericValue);
+	//	myRomanNumeral.setNumericValue(numericValue);
 		if (numericValue == 1){
-			myRomanNumeral.setRomanNumeral("I");
+	//		myRomanNumeral.setRomanNumeral("I");
 		} 		
 		
 		else { 
-			myRomanNumeral.setRomanNumeral("Roman Numeral can't be determined");
+		//	myRomanNumeral.setRomanNumeral("Roman Numeral can't be determined");
 		}
 		
 		return myRomanNumeral;

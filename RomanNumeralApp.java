@@ -28,7 +28,7 @@ public class RomanNumeralApp {
 			RomanNumeral myRomanNumeral = RomanNumeralDB.getRomanNumeral(numericValue);
 			
 			//format and display output
-			System.out.println("Roman Numeral: " + myRomanNumeral.getRomanNumeral());
+		//	System.out.println("Roman Numeral: " + myRomanNumeral.getRomanNumeral());
 			System.out.println();
 			
 			//ask user if they want to continue
